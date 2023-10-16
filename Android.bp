@@ -2,7 +2,7 @@ android_app_import {
 	name: "SystemUIClocks-BigNum",
 	owner: "google",
 	apk: "proprietary/SystemUIClocks-BigNum/SystemUIClocks-BigNum.apk",
-	presigned: true,
+	certificate: "platform",
 	dex_preopt: {
 		enabled: false,
 	},
@@ -14,7 +14,7 @@ android_app_import {
 	name: "SystemUIClocks-Calligraphy",
 	owner: "google",
 	apk: "proprietary/SystemUIClocks-Calligraphy/SystemUIClocks-Calligraphy.apk",
-	presigned: true,
+	certificate: "platform",
 	dex_preopt: {
 		enabled: false,
 	},
@@ -26,7 +26,7 @@ android_app_import {
 	name: "SystemUIClocks-Flex",
 	owner: "google",
 	apk: "proprietary/SystemUIClocks-Flex/SystemUIClocks-Flex.apk",
-	presigned: true,
+	certificate: "platform",
 	dex_preopt: {
 		enabled: false,
 	},
@@ -38,7 +38,7 @@ android_app_import {
 	name: "SystemUIClocks-Growth",
 	owner: "google",
 	apk: "proprietary/SystemUIClocks-Growth/SystemUIClocks-Growth.apk",
-	presigned: true,
+	certificate: "platform",
 	dex_preopt: {
 		enabled: false,
 	},
@@ -50,7 +50,7 @@ android_app_import {
 	name: "SystemUIClocks-Inflate",
 	owner: "google",
 	apk: "proprietary/SystemUIClocks-Inflate/SystemUIClocks-Inflate.apk",
-	presigned: true,
+	certificate: "platform",
 	dex_preopt: {
 		enabled: false,
 	},
@@ -62,7 +62,7 @@ android_app_import {
 	name: "SystemUIClocks-NumOverlap",
 	owner: "google",
 	apk: "proprietary/SystemUIClocks-NumOverlap/SystemUIClocks-NumOverlap.apk",
-	presigned: true,
+	certificate: "platform",
 	dex_preopt: {
 		enabled: false,
 	},
@@ -74,7 +74,7 @@ android_app_import {
 	name: "SystemUIClocks-Weather",
 	owner: "google",
 	apk: "proprietary/SystemUIClocks-Weather/SystemUIClocks-Weather.apk",
-	presigned: true,
+	certificate: "platform",
 	dex_preopt: {
 		enabled: false,
 	},
