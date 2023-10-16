@@ -1,0 +1,83 @@
+android_app_import {
+	name: "SystemUIClocks-BigNum",
+	owner: "google",
+	apk: "proprietary/SystemUIClocks-BigNum/SystemUIClocks-BigNum.apk",
+	presigned: true,
+	dex_preopt: {
+		enabled: false,
+	},
+	privileged: true,
+	system_ext_specific: true,
+}
+
+android_app_import {
+	name: "SystemUIClocks-Calligraphy",
+	owner: "google",
+	apk: "proprietary/SystemUIClocks-Calligraphy/SystemUIClocks-Calligraphy.apk",
+	presigned: true,
+	dex_preopt: {
+		enabled: false,
+	},
+	privileged: true,
+	system_ext_specific: true,
+}
+
+android_app_import {
+	name: "SystemUIClocks-Flex",
+	owner: "google",
+	apk: "proprietary/SystemUIClocks-Flex/SystemUIClocks-Flex.apk",
+	presigned: true,
+	dex_preopt: {
+		enabled: false,
+	},
+	privileged: true,
+	system_ext_specific: true,
+}
+
+android_app_import {
+	name: "SystemUIClocks-Growth",
+	owner: "google",
+	apk: "proprietary/SystemUIClocks-Growth/SystemUIClocks-Growth.apk",
+	presigned: true,
+	dex_preopt: {
+		enabled: false,
+	},
+	privileged: true,
+	system_ext_specific: true,
+}
+
+android_app_import {
+	name: "SystemUIClocks-Inflate",
+	owner: "google",
+	apk: "proprietary/SystemUIClocks-Inflate/SystemUIClocks-Inflate.apk",
+	presigned: true,
+	dex_preopt: {
+		enabled: false,
+	},
+	privileged: true,
+	system_ext_specific: true,
+}
+
+android_app_import {
+	name: "SystemUIClocks-NumOverlap",
+	owner: "google",
+	apk: "proprietary/SystemUIClocks-NumOverlap/SystemUIClocks-NumOverlap.apk",
+	presigned: true,
+	dex_preopt: {
+		enabled: false,
+	},
+	privileged: true,
+	system_ext_specific: true,
+}
+
+android_app_import {
+	name: "SystemUIClocks-Weather",
+	owner: "google",
+	apk: "proprietary/SystemUIClocks-Weather/SystemUIClocks-Weather.apk",
+	presigned: true,
+	dex_preopt: {
+		enabled: false,
+	},
+	privileged: true,
+	system_ext_specific: true,
+}
