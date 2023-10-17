@@ -8,5 +8,4 @@ PRODUCT_PACKAGES += \
     SystemUIClocks-Flex \
     SystemUIClocks-Growth \
     SystemUIClocks-Inflate \
-    SystemUIClocks-NumOverlap \
-    SystemUIClocks-Weather
+    SystemUIClocks-NumOverlap
