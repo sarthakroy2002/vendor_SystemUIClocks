@@ -9,4 +9,6 @@ PRODUCT_PACKAGES += \
     SystemUIClocks-Growth \
     SystemUIClocks-Handwritten \
     SystemUIClocks-Inflate \
-    SystemUIClocks-NumOverlap
+    SystemUIClocks-Metro \
+    SystemUIClocks-NumOverlap \
+    SystemUIClocks-Weather
