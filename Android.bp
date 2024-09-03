@@ -47,18 +47,6 @@ android_app_import {
 }
 
 android_app_import {
-	name: "SystemUIClocks-Handwritten",
-	owner: "google",
-	apk: "proprietary/SystemUIClocks-Handwritten/SystemUIClocks-Handwritten.apk",
-	certificate: "platform",
-	dex_preopt: {
-		enabled: false,
-	},
-	privileged: true,
-	system_ext_specific: true,
-}
-
-android_app_import {
 	name: "SystemUIClocks-Inflate",
 	owner: "google",
 	apk: "proprietary/SystemUIClocks-Inflate/SystemUIClocks-Inflate.apk",
